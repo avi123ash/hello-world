@@ -1,0 +1,41 @@
+@import 'nav.css';
+
+.hero{
+    
+    width: 100%;
+    height: 70vh;
+    background-image:url('../img/header.png') ;
+    background-size:cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+.hero .logo{
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+.hero .sub-heading{
+    color:white;
+    font-size: 40px;
+    text-transform: capitalize;
+    font-weight: 20px;
+
+}
+/* product */
+section.product{
+    position: absolute;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.product-category{
+    padding:0 10vw;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom:40px;
+    text-transform: capitalize;
+}
+/* nnfnvfnvfjvnjfvnfv */
